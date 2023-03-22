@@ -54,3 +54,6 @@ scripts: {
 "dev": "next dev"
 }
 ```
+
+To run the development server, run:
+`npm run dev`
