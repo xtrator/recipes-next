@@ -13,7 +13,8 @@ This project was created as follows:
 
 - `mkdir pages`
 - `touch pages/index.jsx (or js)`
-- `copy this code into index.jsx`
+
+copy this code into index.jsx
 
 ```
 import { useState } from "react";
