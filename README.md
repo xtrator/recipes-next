@@ -8,10 +8,10 @@ clone this repo into a directory of your choice:
 enter the project directory and install dependencies:
 `npm ci`
 
-# Information:
 To run the development server, run:
 `npm run dev`
 
+# Information:
 This project was created as follows:
 
 - `mkdir recipes-next`
