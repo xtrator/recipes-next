@@ -1,6 +1,16 @@
 From the official nextJS guide by Vercel
 https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs
 
+# Installation:
+clone this repo into a directory of your choice:
+`git clone git@github.com:xtrator/recipes-next.git`
+
+enter the project directory and install dependencies:
+`npm ci`
+
+To run the development server, run:
+`npm run dev`
+
 This project was created as follows:
 
 - `mkdir recipes-next`
@@ -54,6 +64,3 @@ scripts: {
 "dev": "next dev"
 }
 ```
-
-To run the development server, run:
-`npm run dev`
