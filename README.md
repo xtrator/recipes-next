@@ -3,17 +3,17 @@ https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-n
 
 This project was created as follows:
 
-- mkdir next-recipe
-- cd next-recipe
-- npm init -y
-- npm i react react-dom next
-- git init
+- `mkdir recipes-next`
+- `cd next-recipe`
+- `npm init -y`
+- `npm i react react-dom next`
+- `git init`
 
-(we are inside next-recipe directory)
+(we are inside recipes-next directory)
 
-- mkdir pages
-- touch pages/index.jsx (or js)
-- copy this code into index.jsx
+- `mkdir pages`
+- `touch pages/index.jsx (or js)`
+- `copy this code into index.jsx`
 
 ```
 import { useState } from "react";
